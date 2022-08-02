@@ -1,0 +1,10 @@
+.card-btn {
+    padding: 10px;
+    font-weight: bold;
+}
+
+.card-btn:hover {
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+}
